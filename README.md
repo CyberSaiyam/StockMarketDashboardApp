@@ -5,7 +5,7 @@
 Made with streamlit and pandas
 Stocks of companies like amazon, google, apple, netflix, tesla etc.
 
-![]("")
+![]("imgs/chart-1905225_1920.jpg")
 
 
 
