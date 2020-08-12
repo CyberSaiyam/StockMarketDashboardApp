@@ -13,7 +13,7 @@ Date range from Aug 12 , 2019 to Aug 10, 2020
 """)
 
 image = Image.open(
-    "C:\PycharmProjects\Stock Market Web App\imgs\stock-exchange-3087396_1920.jpg")
+    "C:/PycharmProjects/Stock Market Web App/imgs/stock-exchange-3087396_1920.jpg")
 st.image(image, use_column_width=True)
 
 # Creating a Sidebar
