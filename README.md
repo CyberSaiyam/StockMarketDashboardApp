@@ -4,7 +4,7 @@
 
 Made with streamlit and pandas.
 
-It Stocks of various companies like amazon, google, apple, netflix, tesla etc.
+It shows stocks of various companies like amazon, google, apple, netflix, tesla etc.
 
 ![](imgs/chart-1905225_1920.jpg)
 
